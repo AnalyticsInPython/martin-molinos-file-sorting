@@ -1,0 +1,11 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+nvidia-20251231-001,2025-12-31 12:22,nvidia,D. Sharma,Email,Inbound,57,procurement,Email re: PO-3459
+nvidia-20251231-002,2025-12-31 14:11,nvidia,T. Bergström,Onsite Visit,Inbound,55,legal,Onsite Visit re: PO-4675
+nvidia-20251231-003,2025-12-31 14:40,nvidia,P. Nowak,Escalation,Outbound,12,legal,Escalation re: PO-4935
+nvidia-20251231-004,2025-12-31 14:23,nvidia,D. Sharma,Contract Review,Inbound,85,procurement,Contract Review re: PO-7757
+nvidia-20251231-005,2025-12-31 14:48,nvidia,K. Alvarez,Renewal,Inbound,66,finance,Renewal re: PO-6353
+nvidia-20251231-006,2025-12-31 16:29,nvidia,P. Nowak,Email,Inbound,80,finance,Email re: PO-1671
+nvidia-20251231-007,2025-12-31 09:26,nvidia,M. Chen,Email,Outbound,44,finance,Email re: PO-5406
+nvidia-20251231-008,2025-12-31 11:26,nvidia,L. Haddad,Phone Call,Outbound,55,support,Phone Call re: PO-4118
+nvidia-20251231-009,2025-12-31 09:46,nvidia,P. Nowak,Renewal,Inbound,84,finance,Renewal re: PO-1984
+nvidia-20251231-010,2025-12-31 15:42,nvidia,D. Sharma,Renewal,Inbound,90,procurement,Renewal re: PO-9169

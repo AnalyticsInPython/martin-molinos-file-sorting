@@ -1,0 +1,12 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20260213-001,2026-02-13 10:33,Amazon,D. Sharma,Onsite Visit,Outbound,25,engineering,Onsite Visit re: PO-2456
+amazon-20260213-002,2026-02-13 14:12,Amazon,M. Chen,Renewal,Inbound,87,engineering,Renewal re: PO-4303
+amazon-20260213-003,2026-02-13 09:11,Amazon,K. Alvarez,Renewal,Inbound,6,finance,Renewal re: PO-7926
+amazon-20260213-004,2026-02-13 11:47,Amazon,S. Okafor,Renewal,Outbound,74,procurement,Renewal re: PO-8572
+amazon-20260213-005,2026-02-13 14:04,Amazon,P. Nowak,Phone Call,Inbound,88,engineering,Phone Call re: PO-7099
+amazon-20260213-006,2026-02-13 09:06,Amazon,T. Bergström,Support Ticket,Inbound,21,finance,Support Ticket re: PO-1493
+amazon-20260213-007,2026-02-13 09:34,Amazon,T. Bergström,Email,Inbound,16,engineering,Email re: PO-2356
+amazon-20260213-008,2026-02-13 16:42,Amazon,M. Chen,Renewal,Inbound,90,legal,Renewal re: PO-4117
+amazon-20260213-009,2026-02-13 11:14,Amazon,D. Sharma,Quote Request,Outbound,53,finance,Quote Request re: PO-2287
+amazon-20260213-010,2026-02-13 10:43,Amazon,S. Okafor,Invoice,Outbound,48,engineering,Invoice re: PO-2773
+amazon-20260213-011,2026-02-13 10:57,Amazon,M. Chen,Renewal,Inbound,23,procurement,Renewal re: PO-9433

@@ -1,0 +1,6 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+apple-20260301-001,2026-03-01 09:25,APPLE,J. Rivera,Quote Request,Outbound,47,engineering,Quote Request re: PO-2297
+apple-20260301-002,2026-03-01 14:11,APPLE,J. Rivera,Invoice,Outbound,32,legal,Invoice re: PO-7079
+apple-20260301-003,2026-03-01 11:13,APPLE,K. Alvarez,Invoice,Outbound,26,support,Invoice re: PO-1137
+apple-20260301-004,2026-03-01 15:02,APPLE,K. Alvarez,Contract Review,Inbound,88,legal,Contract Review re: PO-2269
+apple-20260301-005,2026-03-01 14:46,APPLE,T. Bergström,Onsite Visit,Outbound,85,finance,Onsite Visit re: PO-3409

@@ -1,0 +1,7 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20251230-001,2025-12-30 13:06,amazon,M. Chen,Support Ticket,Inbound,38,finance,Support Ticket re: PO-8099
+amazon-20251230-002,2025-12-30 14:41,amazon,K. Alvarez,Email,Outbound,68,legal,Email re: PO-5357
+amazon-20251230-003,2025-12-30 16:05,amazon,P. Nowak,Renewal,Outbound,73,procurement,Renewal re: PO-4962
+amazon-20251230-004,2025-12-30 15:20,amazon,P. Nowak,Meeting,Outbound,40,finance,Meeting re: PO-3211
+amazon-20251230-005,2025-12-30 16:33,amazon,T. Bergström,Quote Request,Outbound,87,engineering,Quote Request re: PO-5506
+amazon-20251230-006,2025-12-30 10:40,amazon,T. Bergström,Support Ticket,Outbound,15,legal,Support Ticket re: PO-7080

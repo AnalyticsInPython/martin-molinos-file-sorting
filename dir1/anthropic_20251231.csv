@@ -1,0 +1,7 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+anthropic-20251231-001,2025-12-31 11:35,anthropic,K. Alvarez,Phone Call,Inbound,69,engineering,Phone Call re: PO-3765
+anthropic-20251231-002,2025-12-31 14:13,anthropic,K. Alvarez,Quote Request,Outbound,69,support,Quote Request re: PO-5664
+anthropic-20251231-003,2025-12-31 10:51,anthropic,T. Bergström,Contract Review,Outbound,84,procurement,Contract Review re: PO-5620
+anthropic-20251231-004,2025-12-31 09:36,anthropic,S. Okafor,Support Ticket,Outbound,79,engineering,Support Ticket re: PO-9434
+anthropic-20251231-005,2025-12-31 13:23,anthropic,D. Sharma,Support Ticket,Inbound,56,support,Support Ticket re: PO-2840
+anthropic-20251231-006,2025-12-31 16:51,anthropic,T. Bergström,Email,Outbound,68,legal,Email re: PO-3482

@@ -1,0 +1,5 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+microsoft-20260212-001,2026-02-12 11:20,MicroSoft,M. Chen,Invoice,Outbound,88,engineering,Invoice re: PO-5300
+microsoft-20260212-002,2026-02-12 13:56,MicroSoft,M. Chen,Invoice,Inbound,17,legal,Invoice re: PO-3676
+microsoft-20260212-003,2026-02-12 13:09,MicroSoft,J. Rivera,Renewal,Outbound,11,legal,Renewal re: PO-6460
+microsoft-20260212-004,2026-02-12 14:51,MicroSoft,D. Sharma,Meeting,Inbound,37,engineering,Meeting re: PO-5758

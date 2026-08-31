@@ -1,0 +1,6 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+apple-20260212-001,2026-02-12 09:12,Apple,M. Chen,Meeting,Inbound,47,finance,Meeting re: PO-2774
+apple-20260212-002,2026-02-12 15:09,Apple,P. Nowak,Escalation,Outbound,63,procurement,Escalation re: PO-2128
+apple-20260212-003,2026-02-12 16:06,Apple,P. Nowak,Onsite Visit,Inbound,59,procurement,Onsite Visit re: PO-8167
+apple-20260212-004,2026-02-12 12:23,Apple,T. Bergström,Quote Request,Inbound,82,support,Quote Request re: PO-5523
+apple-20260212-005,2026-02-12 12:09,Apple,S. Okafor,Renewal,Outbound,55,engineering,Renewal re: PO-2297

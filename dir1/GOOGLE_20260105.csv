@@ -1,0 +1,12 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+google-20260105-001,2026-01-05 12:34,GOOGLE,L. Haddad,Contract Review,Inbound,36,legal,Contract Review re: PO-7437
+google-20260105-002,2026-01-05 14:23,GOOGLE,P. Nowak,Email,Inbound,76,procurement,Email re: PO-3901
+google-20260105-003,2026-01-05 14:21,GOOGLE,D. Sharma,Renewal,Inbound,29,engineering,Renewal re: PO-1977
+google-20260105-004,2026-01-05 13:35,GOOGLE,M. Chen,Support Ticket,Outbound,43,procurement,Support Ticket re: PO-9575
+google-20260105-005,2026-01-05 16:22,GOOGLE,L. Haddad,Contract Review,Inbound,46,support,Contract Review re: PO-4338
+google-20260105-006,2026-01-05 10:45,GOOGLE,S. Okafor,Quote Request,Inbound,63,engineering,Quote Request re: PO-5625
+google-20260105-007,2026-01-05 16:11,GOOGLE,J. Rivera,Phone Call,Outbound,68,procurement,Phone Call re: PO-7075
+google-20260105-008,2026-01-05 12:34,GOOGLE,K. Alvarez,Onsite Visit,Outbound,82,finance,Onsite Visit re: PO-3679
+google-20260105-009,2026-01-05 11:31,GOOGLE,S. Okafor,Phone Call,Outbound,11,procurement,Phone Call re: PO-9164
+google-20260105-010,2026-01-05 15:37,GOOGLE,J. Rivera,Phone Call,Inbound,21,support,Phone Call re: PO-9852
+google-20260105-011,2026-01-05 09:40,GOOGLE,K. Alvarez,Quote Request,Outbound,56,legal,Quote Request re: PO-5494

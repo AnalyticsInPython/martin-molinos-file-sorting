@@ -1,0 +1,9 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20260105-001,2026-01-05 12:40,AMAZON,P. Nowak,Renewal,Outbound,83,procurement,Renewal re: PO-5649
+amazon-20260105-002,2026-01-05 14:01,AMAZON,K. Alvarez,Invoice,Inbound,46,support,Invoice re: PO-8113
+amazon-20260105-003,2026-01-05 13:41,AMAZON,J. Rivera,Renewal,Inbound,64,support,Renewal re: PO-4992
+amazon-20260105-004,2026-01-05 09:35,AMAZON,T. Bergström,Escalation,Outbound,40,engineering,Escalation re: PO-6301
+amazon-20260105-005,2026-01-05 11:17,AMAZON,D. Sharma,Invoice,Inbound,70,finance,Invoice re: PO-2093
+amazon-20260105-006,2026-01-05 14:54,AMAZON,P. Nowak,Contract Review,Inbound,64,procurement,Contract Review re: PO-9306
+amazon-20260105-007,2026-01-05 16:33,AMAZON,D. Sharma,Contract Review,Outbound,40,support,Contract Review re: PO-6019
+amazon-20260105-008,2026-01-05 15:20,AMAZON,P. Nowak,Onsite Visit,Inbound,35,legal,Onsite Visit re: PO-2466

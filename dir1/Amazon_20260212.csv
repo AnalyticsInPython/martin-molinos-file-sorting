@@ -1,0 +1,4 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20260212-001,2026-02-12 11:21,Amazon,K. Alvarez,Escalation,Outbound,12,legal,Escalation re: PO-6125
+amazon-20260212-002,2026-02-12 16:07,Amazon,J. Rivera,Invoice,Inbound,57,procurement,Invoice re: PO-2960
+amazon-20260212-003,2026-02-12 09:21,Amazon,M. Chen,Phone Call,Outbound,11,support,Phone Call re: PO-9364

@@ -1,0 +1,5 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+apple-20260315-001,2026-03-15 14:37,APPLE,T. Bergström,Onsite Visit,Outbound,7,legal,Onsite Visit re: PO-2064
+apple-20260315-002,2026-03-15 16:06,APPLE,K. Alvarez,Invoice,Outbound,60,engineering,Invoice re: PO-2051
+apple-20260315-003,2026-03-15 13:51,APPLE,L. Haddad,Quote Request,Outbound,34,procurement,Quote Request re: PO-1638
+apple-20260315-004,2026-03-15 11:28,APPLE,J. Rivera,Email,Outbound,37,engineering,Email re: PO-4838

@@ -1,0 +1,12 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+nvidia-20260105-001,2026-01-05 15:42,nvidia,T. Bergström,Phone Call,Inbound,30,support,Phone Call re: PO-3953
+nvidia-20260105-002,2026-01-05 12:12,nvidia,K. Alvarez,Onsite Visit,Inbound,73,finance,Onsite Visit re: PO-1030
+nvidia-20260105-003,2026-01-05 11:41,nvidia,M. Chen,Renewal,Outbound,40,legal,Renewal re: PO-8249
+nvidia-20260105-004,2026-01-05 14:43,nvidia,L. Haddad,Quote Request,Outbound,54,engineering,Quote Request re: PO-2973
+nvidia-20260105-005,2026-01-05 09:10,nvidia,K. Alvarez,Contract Review,Inbound,44,procurement,Contract Review re: PO-7099
+nvidia-20260105-006,2026-01-05 11:09,nvidia,S. Okafor,Invoice,Inbound,11,support,Invoice re: PO-2583
+nvidia-20260105-007,2026-01-05 14:17,nvidia,L. Haddad,Email,Inbound,38,legal,Email re: PO-5912
+nvidia-20260105-008,2026-01-05 13:42,nvidia,S. Okafor,Invoice,Inbound,55,legal,Invoice re: PO-5319
+nvidia-20260105-009,2026-01-05 11:24,nvidia,P. Nowak,Email,Outbound,78,support,Email re: PO-1633
+nvidia-20260105-010,2026-01-05 10:33,nvidia,J. Rivera,Quote Request,Inbound,10,legal,Quote Request re: PO-2234
+nvidia-20260105-011,2026-01-05 10:35,nvidia,J. Rivera,Contract Review,Inbound,61,support,Contract Review re: PO-4159

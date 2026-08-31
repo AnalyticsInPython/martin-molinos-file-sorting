@@ -1,0 +1,8 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+microsoft-20260213-001,2026-02-13 14:21,microsoft,L. Haddad,Invoice,Inbound,20,legal,Invoice re: PO-7002
+microsoft-20260213-002,2026-02-13 15:24,microsoft,D. Sharma,Support Ticket,Inbound,36,engineering,Support Ticket re: PO-9106
+microsoft-20260213-003,2026-02-13 11:35,microsoft,D. Sharma,Quote Request,Inbound,52,support,Quote Request re: PO-4525
+microsoft-20260213-004,2026-02-13 12:48,microsoft,K. Alvarez,Meeting,Outbound,33,legal,Meeting re: PO-2837
+microsoft-20260213-005,2026-02-13 13:49,microsoft,S. Okafor,Email,Outbound,29,finance,Email re: PO-4604
+microsoft-20260213-006,2026-02-13 15:09,microsoft,L. Haddad,Escalation,Outbound,33,support,Escalation re: PO-8322
+microsoft-20260213-007,2026-02-13 15:33,microsoft,M. Chen,Support Ticket,Outbound,85,procurement,Support Ticket re: PO-7944

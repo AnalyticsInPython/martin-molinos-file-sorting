@@ -1,0 +1,6 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20260228-001,2026-02-28 11:01,amazon,D. Sharma,Invoice,Inbound,36,finance,Invoice re: PO-3913
+amazon-20260228-002,2026-02-28 12:32,amazon,P. Nowak,Phone Call,Inbound,30,procurement,Phone Call re: PO-5556
+amazon-20260228-003,2026-02-28 16:40,amazon,S. Okafor,Support Ticket,Inbound,63,support,Support Ticket re: PO-7900
+amazon-20260228-004,2026-02-28 11:46,amazon,M. Chen,Meeting,Outbound,65,finance,Meeting re: PO-9369
+amazon-20260228-005,2026-02-28 10:54,amazon,L. Haddad,Meeting,Inbound,83,finance,Meeting re: PO-4358

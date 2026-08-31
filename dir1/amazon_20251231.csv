@@ -1,0 +1,4 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+amazon-20251231-001,2025-12-31 12:08,amazon,S. Okafor,Email,Outbound,32,support,Email re: PO-4141
+amazon-20251231-002,2025-12-31 09:41,amazon,D. Sharma,Renewal,Inbound,84,support,Renewal re: PO-9932
+amazon-20251231-003,2025-12-31 10:41,amazon,T. Bergström,Support Ticket,Inbound,41,finance,Support Ticket re: PO-7255

@@ -1,0 +1,4 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+nvidia-20251230-001,2025-12-30 10:50,NVIDIA,L. Haddad,Support Ticket,Outbound,76,engineering,Support Ticket re: PO-4987
+nvidia-20251230-002,2025-12-30 13:09,NVIDIA,L. Haddad,Escalation,Inbound,10,legal,Escalation re: PO-6942
+nvidia-20251230-003,2025-12-30 12:18,NVIDIA,T. Bergström,Quote Request,Outbound,41,engineering,Quote Request re: PO-1526

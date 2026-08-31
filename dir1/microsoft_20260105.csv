@@ -1,0 +1,12 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+microsoft-20260105-001,2026-01-05 15:19,microsoft,D. Sharma,Onsite Visit,Inbound,83,engineering,Onsite Visit re: PO-5405
+microsoft-20260105-002,2026-01-05 10:10,microsoft,D. Sharma,Email,Inbound,48,support,Email re: PO-5430
+microsoft-20260105-003,2026-01-05 15:48,microsoft,J. Rivera,Contract Review,Outbound,26,support,Contract Review re: PO-4359
+microsoft-20260105-004,2026-01-05 15:56,microsoft,T. Bergström,Quote Request,Inbound,60,legal,Quote Request re: PO-2503
+microsoft-20260105-005,2026-01-05 10:18,microsoft,K. Alvarez,Renewal,Outbound,40,finance,Renewal re: PO-1978
+microsoft-20260105-006,2026-01-05 15:06,microsoft,S. Okafor,Onsite Visit,Inbound,43,procurement,Onsite Visit re: PO-9327
+microsoft-20260105-007,2026-01-05 09:10,microsoft,D. Sharma,Onsite Visit,Outbound,15,legal,Onsite Visit re: PO-2285
+microsoft-20260105-008,2026-01-05 09:09,microsoft,T. Bergström,Meeting,Inbound,18,finance,Meeting re: PO-1792
+microsoft-20260105-009,2026-01-05 09:37,microsoft,D. Sharma,Invoice,Inbound,23,engineering,Invoice re: PO-5966
+microsoft-20260105-010,2026-01-05 12:53,microsoft,D. Sharma,Quote Request,Outbound,73,support,Quote Request re: PO-2966
+microsoft-20260105-011,2026-01-05 10:19,microsoft,K. Alvarez,Email,Inbound,87,support,Email re: PO-6448

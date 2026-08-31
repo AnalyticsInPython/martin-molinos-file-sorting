@@ -1,0 +1,4 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+apple-20260115-001,2026-01-15 11:33,apple,L. Haddad,Contract Review,Inbound,68,support,Contract Review re: PO-3998
+apple-20260115-002,2026-01-15 12:02,apple,T. Bergström,Meeting,Inbound,68,legal,Meeting re: PO-6811
+apple-20260115-003,2026-01-15 15:54,apple,J. Rivera,Escalation,Inbound,31,support,Escalation re: PO-7435

@@ -1,0 +1,12 @@
+interaction_id,date,vendor,contact,interaction_type,channel,duration_min,owner,notes
+anthropic-20260105-001,2026-01-05 10:08,anthropic,S. Okafor,Onsite Visit,Inbound,52,legal,Onsite Visit re: PO-1901
+anthropic-20260105-002,2026-01-05 09:26,anthropic,J. Rivera,Onsite Visit,Inbound,73,engineering,Onsite Visit re: PO-9323
+anthropic-20260105-003,2026-01-05 13:19,anthropic,M. Chen,Quote Request,Outbound,86,procurement,Quote Request re: PO-6569
+anthropic-20260105-004,2026-01-05 13:25,anthropic,P. Nowak,Quote Request,Inbound,69,legal,Quote Request re: PO-6100
+anthropic-20260105-005,2026-01-05 13:35,anthropic,J. Rivera,Email,Inbound,56,finance,Email re: PO-7276
+anthropic-20260105-006,2026-01-05 10:20,anthropic,T. Bergström,Quote Request,Outbound,75,engineering,Quote Request re: PO-7187
+anthropic-20260105-007,2026-01-05 16:35,anthropic,M. Chen,Email,Inbound,14,procurement,Email re: PO-9498
+anthropic-20260105-008,2026-01-05 09:26,anthropic,T. Bergström,Support Ticket,Outbound,11,support,Support Ticket re: PO-1222
+anthropic-20260105-009,2026-01-05 16:52,anthropic,P. Nowak,Quote Request,Outbound,12,support,Quote Request re: PO-1874
+anthropic-20260105-010,2026-01-05 14:47,anthropic,S. Okafor,Renewal,Outbound,26,support,Renewal re: PO-2218
+anthropic-20260105-011,2026-01-05 13:57,anthropic,T. Bergström,Meeting,Outbound,10,procurement,Meeting re: PO-4041
